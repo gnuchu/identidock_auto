@@ -1,1 +1,1 @@
-Automated image build
+Automated image build for identidock.
